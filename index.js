@@ -32,3 +32,19 @@ else if(day==5 && gender=='female'){
 else if(day==6 && gender=='female'){
     document.getElementById('valu').innerHTML='Ama'
 }
+else if(day==0 && gender=='male'){
+    document.getElementById('valu').innerHTML='Kwasi'
+}else if(day==1 && gender=='male'){
+    document.getElementById('valu').innerHTML='Kwadwo'
+}else if(day==2 && gender=='male'){
+    document.getElementById('valu').innerHTML='Kwabena'
+}else if(day==3 && gender=='male'){
+    document.getElementById('valu').innerHTML='Kwaku'
+}else if(day==4 && gender=='male'){
+    document.getElementById('valu').innerHTML='Yaw'
+}else if(day==5 && gender=='male'){
+    document.getElementById('valu').innerHTML='kofi'
+}else if(day==6 && gender=='male'){
+    document.getElementById('valu').innerHTML='Kwame'
+}   
+}
