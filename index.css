@@ -27,3 +27,9 @@ h2{
     width: 130px;
     color:black;
 }
+#valu{
+    border:black;
+    widows: 30px;
+    font-size:20px;
+    text-transform: uppercase;
+}
