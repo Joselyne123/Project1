@@ -21,3 +21,9 @@ h2{
     text-shadow: 2px 2px 4px;
     font-size:20px;
 }
+.container #submit{
+    background-color: rgb(112, 112, 112);
+    border:black;
+    width: 130px;
+    color:black;
+}
