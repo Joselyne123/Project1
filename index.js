@@ -8,3 +8,6 @@ function formCal(){
     // console.log(dd);
     // console.log(yyyy);
     // console.log(mm);
+    var gender=document.getElementById("gender").value;
+    console.log(gender);
+   
