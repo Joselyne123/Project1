@@ -6,3 +6,6 @@
        height: 50%;
        background-size: cover;
    }
+   .form-control{
+    width: 60%;
+}
